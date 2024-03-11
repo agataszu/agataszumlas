@@ -8,17 +8,3 @@ I am a highly accomplished professional with a successful track record in projec
 Data Science Journey
 I have recently completed a data science bootcamp, where I acquired proficiency in Python, data analysis, visualization, and machine learning. My commitment to learning, coupled with existing skills, self-motivation, and a determined approach to acquiring new expertise, positions me as a dynamic professional ready to excel and contribute in the field of data analytics.
 
-Technical Skills
-Python
-Pandas
-Seaborn
-Numpy
-Jupyter
-Excel
-SketchUp
-CMS
-
-Soft Skills
-Problem Solving
-Communication
-Customer Service
